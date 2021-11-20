@@ -1,28 +1,26 @@
 # Challenge_21
 
-I decided to created a new cryptocurrency, KaseiCoin is a fungible token that is ERC-20 compliant. I launched a crowdsale that allows people to convert their money to KaseiCoin.
-
-This token was minted by using a Crowdsale contract from OpenZeppelin Solidity library.
-
-The crowdsale contract that I created manages the entire crowdsale process, allowing users to send ether to the contract and in return receive KCS, or KaseiCoin tokens. This contract will mint the tokens automatically and distribute them to buyers in one transaction.
-
+I decided to created a new cryptocurrency, KaseiCoin is a fungible token that is ERC-20 compliant. I launched a crowdsale that allows people to convert their money to KaseiCoin.This token was minted by using a Crowdsale contract from OpenZeppelin Solidity library. The crowdsale contract that I created manages the entire crowdsale process, allowing users to send ether to the contract and in return receive KCS, or KaseiCoin tokens. This contract will mint the tokens automatically and distribute them to buyers in one transaction.
+***
 **Technologies**
 
 Solidity
+***
 
 **Installation Guide**
 
 In order to open and run this program you have to follow these steps:
 
-Go to my repository in GitHub and open the repository called Challenge_21
+1. Go to my repository in GitHub and open the repository called Challenge_21
 
-Copy the repository's link.
+2. Copy the repository's link.
 
-Open Git Bash/ Terminal in your computer
+3. Open Git Bash/ Terminal in your computer
 
-Clone the repository by typing git clone and paste the link git@github.com:https://github.com/Danieli2/Challenge_21
+4. Clone the repository by typing git clone and paste the link git@github.com:https://github.com/Danieli2/Challenge_21
 
-Open Remix IDE website , load the file onto the current workspace, compile and deploy the file.
+5. Open Remix IDE website , load the file onto the current workspace, compile and deploy the file.
+***
 
 **Usage**
 
