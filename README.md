@@ -1,6 +1,6 @@
 # Challenge_21
 
-I decided to create a new cryptocurrency called KaseiCoin. KaseiCoin is a fungible token that is ERC-20 compliant. I launched a crowdsale that allows people to convert their money to KaseiCoin.
+I decided to created a new cryptocurrency, KaseiCoin is a fungible token that is ERC-20 compliant. I launched a crowdsale that allows people to convert their money to KaseiCoin.
 
 This token was minted by using a Crowdsale contract from OpenZeppelin Solidity library.
 
